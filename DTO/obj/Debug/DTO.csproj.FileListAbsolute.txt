@@ -1,0 +1,10 @@
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\bin\Debug\DTO.exe.config
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\bin\Debug\DTO.exe
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\bin\Debug\DTO.pdb
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\obj\Debug\DTO.exe
+C:\Users\Trong\source\repos\CNPM\Lab3\DTO\obj\Debug\DTO.pdb

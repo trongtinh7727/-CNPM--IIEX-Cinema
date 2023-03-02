@@ -1,0 +1,14 @@
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\bin\Debug\DAO.exe.config
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\bin\Debug\DAO.exe
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\bin\Debug\DAO.pdb
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\bin\Debug\DTO.exe
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\bin\Debug\DTO.pdb
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\bin\Debug\DTO.exe.config
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.exe
+C:\Users\Trong\source\repos\CNPM\Lab3\DAO\obj\Debug\DAO.pdb
